@@ -57,13 +57,13 @@ namespace TDEProdutos
             c.SwaggerDoc("v1",
                 new OpenApiInfo
                 {
-                    Title = "Aula Lab. Uniaraxï¿½",
+                    Title = "Aula Lab. Uniaraxa",
                     Version = "v1",
                     Description = "Exemplo de API REST criada com o ASP.NET Core",
                     Contact = new OpenApiContact
                     {
                         Name = "H1",
-                        Url = new Uri("https://github.com/1bertomelo")
+                        Url = new Uri("https://github.com/lucasziKNTC")
                     }
                 });
 
